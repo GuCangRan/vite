@@ -1,0 +1,6 @@
+html,
+body {
+  @apply container h-full;
+
+  background: #930b12;
+}
