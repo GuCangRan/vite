@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "css-doodle": "^0.19.2",
-    "fancy-components": "^0.0.18",
+    "fancy-components": "^0.0.21",
     "vue": "^3.2.6",
     "vue-router": "^4.0.11",
     "vuex": "^4.0.2"
